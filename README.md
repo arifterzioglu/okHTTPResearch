@@ -7,10 +7,10 @@ CS 411 / Software Architecture Design Term Project:
 Project I Report
  
 Project Group Members:
-Arif Can TERZİOĞLU
-Ertan ADAY
-Oktay AYAR
-Özgür Can ERDOĞAN
+Arif Can TERZİOĞLU \n
+Ertan ADAY\n
+Oktay AYAR\n
+Özgür Can ERDOĞAN\n
 Cihangir MERCAN
 
 	
